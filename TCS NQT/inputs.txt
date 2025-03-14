@@ -1,0 +1,8 @@
+Q how to convert a string sentence into an array and do the operation
+Ans String[] words = sentence.split(" ");  // Splitting by space
+
+Q 2. Convert a Sentence into an Array of Characters
+Ans char[] chars = sentence.toCharArray();
+    String[] arr = input.split(",\\s*");
+
+Q 3
